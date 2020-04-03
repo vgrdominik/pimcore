@@ -4,6 +4,7 @@
 # symfony default
 /.web-server-pid
 /app/config/parameters.yml
+/app/config/installer.yml
 /build/
 /phpunit.xml
 /web/bundles/
